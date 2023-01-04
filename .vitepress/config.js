@@ -5,7 +5,7 @@ module.exports = {
   description: 'AI Powered Continuous CX Testing on a Massive Scale',
   srcDir: '.',
   outDir: './dist',
-  base: '/snforge/landing',
+  base: '/landing/',
   themeConfig: {
     repo: 'https://github.com/',
     pages: fetchDocs(),

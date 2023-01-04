@@ -239,6 +239,32 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@enegel/landing@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@enegel/landing@workspace:."
+  dependencies:
+    "@headlessui/vue": ^1.7.7
+    "@heroicons/vue": ^2.0.13
+    "@tailwindcss/aspect-ratio": ^0.4.2
+    "@tailwindcss/forms": ^0.5.3
+    "@tailwindcss/line-clamp": ^0.4.2
+    "@tailwindcss/typography": ^0.5.8
+    "@vitejs/plugin-vue": ^4.0.0
+    autoprefixer: ^10.4.13
+    eslint: ^8.30.0
+    eslint-config-prettier: ^8.5.0
+    eslint-plugin-vue: ^9.8.0
+    gray-matter: ^4.0.3
+    mini-svg-data-uri: ^1.4.4
+    postcss: ^8.4.20
+    prettier: ^2.8.1
+    tailwindcss: ^3.2.4
+    vite: ^4.0.3
+    vitepress: ^1.0.0-alpha.35
+    vue: ^3.2.45
+  languageName: unknown
+  linkType: soft
+
 "@esbuild/android-arm64@npm:0.16.13":
   version: 0.16.13
   resolution: "@esbuild/android-arm64@npm:0.16.13"
@@ -3332,32 +3358,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sws.io@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "sws.io@workspace:."
-  dependencies:
-    "@headlessui/vue": ^1.7.7
-    "@heroicons/vue": ^2.0.13
-    "@tailwindcss/aspect-ratio": ^0.4.2
-    "@tailwindcss/forms": ^0.5.3
-    "@tailwindcss/line-clamp": ^0.4.2
-    "@tailwindcss/typography": ^0.5.8
-    "@vitejs/plugin-vue": ^4.0.0
-    autoprefixer: ^10.4.13
-    eslint: ^8.30.0
-    eslint-config-prettier: ^8.5.0
-    eslint-plugin-vue: ^9.8.0
-    gray-matter: ^4.0.3
-    mini-svg-data-uri: ^1.4.4
-    postcss: ^8.4.20
-    prettier: ^2.8.1
-    tailwindcss: ^3.2.4
-    vite: ^4.0.3
-    vitepress: ^1.0.0-alpha.33
-    vue: ^3.2.45
-  languageName: unknown
-  linkType: soft
-
 "tailwindcss@npm:^3.2.4":
   version: 3.2.4
   resolution: "tailwindcss@npm:3.2.4"
@@ -3562,7 +3562,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vitepress@npm:^1.0.0-alpha.33":
+"vitepress@npm:^1.0.0-alpha.35":
   version: 1.0.0-draft.8
   resolution: "vitepress@npm:1.0.0-draft.8"
   dependencies:
